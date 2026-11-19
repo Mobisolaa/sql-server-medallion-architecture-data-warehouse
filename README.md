@@ -7,9 +7,9 @@ medallion architecture.
 
 ## Objective
 Build an SQL-based analytics to deliver detailed insights into the following in order to empower stakeholders with key business metrics
-- **Sales Trends
-- **Consumer Patterns
-- **Product Adoption /User Engagement 
+- Sales Trends
+- Consumer Patterns
+- Product Adoption /User Engagement 
 
 ## Architecture
 
@@ -35,4 +35,4 @@ Build an SQL-based analytics to deliver detailed insights into the following in 
 - `datasets/`: source CRM and ERP files
 - `scripts/bronze/`, `scripts/silver/`, `scripts/gold/`: layer DDL and ETL scripts
 - `tests/`: data quality checks
-- `docs/`: architecture diagrams, data catalog, naming conventions
+- `documents/`: architecture diagrams, data catalog, naming conventions
